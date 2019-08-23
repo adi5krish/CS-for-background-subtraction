@@ -9,3 +9,5 @@ The details of the videos uploaded are as follows:
 dataset_video.avi ----> original dataset video
 bs_time.avi       ----> Background subtraction done in time domain (xt - xb)
 bs_cs.avi         ----> Background subtraction done from compressive sensing (final ouput)
+
+The code.pdf file contains snippets of code we made using Jupyter.
