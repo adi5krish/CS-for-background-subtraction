@@ -5,9 +5,10 @@ The link for the paper is http://users.umiacs.umd.edu/~rama/Publications/Reddy_E
 
 The objective of this project is to recover the object silhouettes (binary background subtracted images) based on compressed sensing theory which is fundamental in automatically tracking moving objects with applications in surveillance. The codes associated with this project are done in Python on the Jupyter platform.
 
-The details of the videos uploaded are as follows:
-dataset_video.avi ----> original dataset video
-bs_time.avi       ----> Background subtraction done in time domain (xt - xb)
+The details of the video uploaded is as follows:
 bs_cs.avi         ----> Background subtraction done from compressive sensing (final ouput)
 
-The code.pdf file contains snippets of code we made using Jupyter.
+The code.pdf file contains snippets of code and some of our observations we made using Jupyter.
+
+Note: The original video is of a larger size which can't be uploaded here. 
+About the Dataset: The dataset we used consists of about 300 images which we stitched together to form a video. There are various datasets available online dealing with moving objects which we can make use.
